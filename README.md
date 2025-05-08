@@ -7,5 +7,7 @@ Tecnologias Utilizadas
 Microsoft Azure
 Git & GitHub
 Markdown
+
+
 📧 Contato
 Para dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato por [gabriel.vianafr@gmail.com]
